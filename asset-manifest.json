@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Universe-616/static/css/main.9f3e7322.css",
+    "main.js": "/Universe-616/static/js/main.832bfaef.js",
+    "static/media/img1.jpg": "/Universe-616/static/media/img1.f895edd7bd01a4073d2a.jpg",
+    "index.html": "/Universe-616/index.html",
+    "static/media/search.svg": "/Universe-616/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.9f3e7322.css.map": "/Universe-616/static/css/main.9f3e7322.css.map",
+    "main.832bfaef.js.map": "/Universe-616/static/js/main.832bfaef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f3e7322.css",
+    "static/js/main.832bfaef.js"
+  ]
+}
